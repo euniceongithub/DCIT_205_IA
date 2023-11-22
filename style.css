@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #040D12;
     color: #fff;
     padding: 60px 0;
 }
@@ -25,8 +25,9 @@ nav ul {
 }
 
 nav ul li {
-    display: inline;
+    display: grid;
     margin-right: 20px;
+    grid-template-columns: repeat(1fr, 10);
 }
 
 nav a {
@@ -43,3 +44,4 @@ nav a:hover {
 nav a.active {
     border-bottom: 2px solid #fff;
 }
+
