@@ -25,9 +25,8 @@ nav ul {
 }
 
 nav ul li {
-    display: grid;
+    display: inline;
     margin-right: 20px;
-    grid-template-columns: repeat(1fr, 10);
 }
 
 nav a {
@@ -45,3 +44,11 @@ nav a.active {
     border-bottom: 2px solid #fff;
 }
 
+button {
+    background-color: #265073;
+    color: #ECF4D6;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
