@@ -1,12 +1,131 @@
 header {
-    background-color: #265073;
-    color: #ECF4D6;
+    background-color: #0A043C;
+    color: #2D9596;
     padding: 60px 0;
     transition: transform 0.3s ease-in-out;
+    height: auto;
 }
 
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color: #FFFFFF;
 }
+
+#logo {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 70px;
+    height: 120px;
+}
+
+#quote {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 25vh;
+      margin: 0;
+      color: #0A043C;
+      font-family: 'Dancing Script', cursive;
+      font-size: 35pt;
+      font-weight: 900;
+}
+
+#author {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 0vh;
+      margin: 0;
+      margin-top: 0px;
+      color: #2D9596;
+      font-family: 'Adamina', serif;
+      font-size: 25px;
+      font-weight: lighter;
+}
+
+hr {
+    background-color: #0A043C;
+    margin-top: 35px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#photo {
+    height: 50%;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+
+#gradphoto{
+    height: auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#gradtext{
+    color: #0A043C;
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Adamina', serif;
+    font-weight: 300;
+    margin-bottom: 5%;
+}
+
+#alumniprofiles{
+    color: #0A043C;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25pt;
+}
+
+#people {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.griditem {
+}
+
+ul {
+    list-style-type: none;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.pics {
+    height: 250x;
+    width: 300px;
+}
+
+@media (max-width: 600px) {
+    ul {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media ( min-width: 600px, max-width: 850px) {
+    ul{
+        grid-template-columns: 2fr;
+    }
+    
+}
+
 
