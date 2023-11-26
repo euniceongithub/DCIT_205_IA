@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="./faculty.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Libre+Baskerville&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Adamina&display=swap" rel="stylesheet">
+    
+    <title>Faculty</title>
+    
+    
+</head>
+<body>
+    <header>
+        <div id="logo"><img src="./comScience_logo.png" alt="Department logo" style="width:250px"></div>
+
+
+</header>
+
+<h1>Faculty</h1>
+<hr />
+<h2>You can give them classes and lecture them forever, but it is your personal example they will follow.</h2>
+<h3>- Colin Powell</h3>
+
+<div class="slideshow-container">
+    <div class="mySlides">
+        <img src="./fac1.jpg" alt="Slide 1">
+    </div>
+
+    <div class="mySlides">
+        <img src="./fac2.jpg" alt="Slide 2">
+    </div>
+
+    <div class="mySlides">
+        <img src="./fac3.jpg" alt="Slide 3">
+    </div>
+
+    <div class="mySlides">
+        <img src="./fac4.jpeg" alt="Slide 4">
+    </div>
+
+    <div style="text-align:center">
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+    </div>
+</div>
+
+<div class="grid-container">
+        <div class="grid-item"><a href="https://www.ug.edu.gh/staff-directory">
+        <h4>DIRECTORY</h4></a></div>
+
+    <div class="grid-item">
+        <a href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.microsoft365.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638366353297502009.ZGM2MWE3NDItOWM3OS00YzM4LWExNGUtYTlkOTU3YTIxOThhOTNjMjdjZjItMWZhNi00MTBkLWI2ZTgtNjlkZDRiNTFiNzlk&ui_locales=en-US&mkt=en-US&client-request-id=b9da1d4e-0ab7-4267-990d-2af52751735a&state=j0O6JlF--aXyVdH09OkI00dZPh5qjKgQMZAwkLiwpA0lIBr3z3wAznoZoomuAzemA-iM5AEus6k9OpzQR4wuITXiOZr6ALSIxi3zy0CL9TBjLcLoEVvuvtp7ZX14YuVELEc4BSagyk1v9O0E98RjrsDLeICXQumOmEnDYaAe5TBe9Y5AK1n4jcRbFzbHWm2OnY9oeUdS0VCYU4gZ6MW6jM44ok1FzunM8kBKXlLxfT8fBvCHTcQg6GJEuafaOnfwkRfoanP_tS2H8Is_wt1o2L5wjj7NzWPA71gB2kDZYJiDqQpiAX6ZngK4tLRDGwcl&x-client-SKU=ID_NET6_0&x-client-ver=6.30.1.0&sso_reload=true">
+        <h4>STAFF EMAIL</h4></a>
+    </div>
+
+    <div class="grid-item">
+        <a href="https://www.ug.edu.gh/employment-opportunities">
+        <h4>EMPLOYMENT</h4></a>
+    </div>
+
+    <div class="grid-item">
+        <a href="https://www.ug.edu.gh/pad/publication/policies">
+        <h4>POLICIES</h4></a>
+    </div>
+</div>
+
+<footer>
+    <div class="department-name">Department of CS</div>
+    <div>Contact: dcs@ug.edu.gh</div>
+    <div>Phone: +233 501 382 035</div>
+    <div>
+        <a href="./index.html">Home</a>
+        <a href="./about.html">About</a>
+        <a href="./admissions.html">Admissions</a>
+        <a href="./contact.html">Contact</a>
+    </div>
+    <hr />
+    <p class="copyright">Copyright ©2023 All rights reserved</p>
+    <div>
+        <a href="https://web.facebook.com/University-of-GhanaDepartment-of-Computer-Science-116786389698948/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBBAU8wKSNVs2fNZimGERUZJeac3TbmQsaZDsz4ZoEqZ95bzGZf3siMET6V1B1NuOzqLZwhXCqqrtIt&_rdc=1&_rdr"><img class="icons" src="./facebook.png"></a>
+        <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Funivofghana"><img class="icons" src="./twitter.png"></a>
+        <a href="https://www.instagram.com/explore/locations/468119891/university-of-ghana/"><img class="icons" src="./Instagram-PNGinstagram-icon-png.png"></a>
+
+    </div>
+</footer>
+<script>
+ let slideIndex = 0;
+    showSlides();
+
+    function showSlides() {
+        let i;
+        const slides = document.getElementsByClassName("mySlides");
+        const dots = document.getElementsByClassName("dot");
+
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+
+        slideIndex++;
+
+        if (slideIndex > slides.length) {
+            slideIndex = 1;
+        }
+
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+
+        slides[slideIndex - 1].style.display = "block";
+        dots[slideIndex - 1].className += " active";
+
+        setTimeout(showSlides, 5500);
+     } 
+    </script>
+</body>
+</html>
