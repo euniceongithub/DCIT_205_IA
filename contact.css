@@ -1,7 +1,129 @@
 h1 {
-    color: #040D12;
+    color: #0A043C;
+    padding-left: 5%;
+    font-size: 40pt;
 }
 
 body {
-    background-color: #93B1A6;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+header {
+    background-color: #0A043C;
+    color: #2D9596;
+    padding: 60px 0;
+    transition: transform 0.3s ease-in-out;
+    height: auto;
+}
+
+#logo {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 70px;
+    height: 120px;
+}
+
+footer {
+    background-color: #dad9d9;
+    color: #0A043C;
+    padding: 80px;
+    text-align: center;
+    margin-top: 5%
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.department-name {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.icons {
+    height: 25px;
+    width: 25px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1*var(--bs-gutter-y));
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    display: inline-flex;
+    vertical-align: middle;
+}
+
+.color-change-button {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #BBBBBB;
+    color: black; 
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 200%;
+    max-width: 200%;
+}
+
+.color-change-button:hover {
+    background-color: #0A043C;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .color-change-button {
+        width: 60%; 
+    }
+}
+
+@media (min-width: 768px)
+.middle {
+    justify-content: center;
+}
+
+.middle {
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+    flex-wrap: wrap;
+    flex-direction: column;
+    position: relative;
+    justify-content: flex-start;
+    flex: 1 0 0%;
+    margin-top: 0%;
+    margin-right: 5%;
+    margin-left: 5%;
+    align-content: flex-end;
+}
+
+.socials {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: row;
+    margin-right: 15%
+}
+
+.ss {
+    height: 42px;
+    width: 42px;
 }
