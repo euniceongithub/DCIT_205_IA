@@ -135,7 +135,7 @@ h3 {
 
 .grid-item {
     text-align: center;
-    background-color: #0A043C;
+    background-color: #dad9d9;
     color: #FFFFFF;
     padding: 10%;
     border-radius: 8px;
@@ -150,8 +150,8 @@ h3 {
 }
 
 .grid-item:hover {
-    background-color: #dad9d9;
-    color: black;
+    background-color: #0A043C;
+    color: white;
 }
 
 
