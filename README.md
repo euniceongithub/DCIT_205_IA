@@ -58,6 +58,29 @@ Considering that this page was mainly images, paragraph and header tags, it was 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/46849217-83eb-4b24-a934-8cf9e4b0c167)
 
 
+# Faculty Page
+I re-used what i had learnt about slideshows from the home page to create yet another one.
+
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/4db03ad8-41b7-4f57-987a-9493a3050563)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/13fa79fe-d4ab-467e-b8e9-ed5e93c29499)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/9d7296ec-9aab-4e96-82e5-2a730b684ee1)
+
+
+# Admissions
+I studied grid extensively to create this beautifully responsive design.
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/57753a7c-f92f-4265-bbb5-593a2e2e2672)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/e00b1329-3ddd-4071-a88a-adcc5b31d4cb)
+
+# Research Groups
+
+
+
+
 
 
 
