@@ -115,12 +115,12 @@ I studied grid extensively to create this beautifully responsive design.
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/3c09e266-de15-48ad-9ebc-d7c54d14ae73)
 
-# Student Resources
+## Student Resources
 
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/9918b030-acef-4488-8d6c-b2e6fafb7e3e)
 
-# Donate
+## Donate
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/7a5af2a8-9b91-4c6a-9d87-1780718ba216)
 
@@ -128,7 +128,7 @@ I studied grid extensively to create this beautifully responsive design.
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/2f07eeca-9687-4e86-8c43-db2ef1e6f186)
 
-# Contact Us
+## Contact Us
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/a817b8b8-093b-4aaf-9fc5-b50a0bbd7cef)
 
