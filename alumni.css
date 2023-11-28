@@ -168,8 +168,8 @@ ul {
 
 .color-change-button {
     display: inline-block;
-    padding: 15px 30px;
     font-size: 18px;
+    padding: 1% 1%;
     background-color: #BBBBBB;
     color: black; 
     text-decoration: none;
