@@ -21,3 +21,15 @@ Now, let's take a walk through the website.
 I learnt how to create headers and navigation bars for webpages. I also ensured that they were responsive on smaller screen sizes.
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/90e74a5a-216d-4169-bcee-c13814a8ac59)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/55585ff9-2524-43ce-9d0c-a8759e1a7b2d)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/f3ce6986-0f05-4457-b611-2232f2143129)
+
+Using the knowledge I already had, I incorporated images, header tags and the use of grid containers for responsive design. I also included a touch of javascript for the slideshow, which was completely new to me.
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/759f8de4-8edc-4ecc-bc75-d113fd3002f2)
+
+
+
+
