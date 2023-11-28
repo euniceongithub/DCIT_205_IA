@@ -19,3 +19,4 @@ Now, let's take a walk through the website.
 # Home Page
 
 I learnt how to create headers and navigation bars for webpages. I also ensured that they were responsive on smaller screen sizes.
+![home page](sc home1.png)
