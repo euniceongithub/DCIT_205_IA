@@ -31,5 +31,42 @@ Using the knowledge I already had, I incorporated images, header tags and the us
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/759f8de4-8edc-4ecc-bc75-d113fd3002f2)
 
 
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/9d5a0736-c4b9-4828-b180-657bc432dc61)
+
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/cfe45a29-6a33-4811-8e7b-71ccc3e30c4b)
+
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/389b4601-186a-461f-b918-3347dc75b3dd)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/35d40112-dc7e-43be-b80f-f516b8e4b2b2)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/3bb1f8bd-9544-4f52-a818-d097b357ba6e)
+
+# About Us Page
+Considering that this page was mainly images, paragraph and header tags, it was fairly easy to create and demonstrates beautiful responsiveness.
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/c94e1a05-bbbd-4084-a8a7-23f29dea2d11)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/bd653ecb-cd32-4043-8760-4a2efc31da23)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/f7aedf22-880b-4607-8d7c-82662310bc7c)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/c755176d-06f6-4a0a-9b4d-d6b5e126916f)
+
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/46849217-83eb-4b24-a934-8cf9e4b0c167)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
