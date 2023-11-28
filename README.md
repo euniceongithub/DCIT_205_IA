@@ -14,3 +14,8 @@ Set-up: 1. Ensure that Git is installed on your device. You can download it from
 5. Change the directory into the project directory using cd [Project directory]
 6. Now, when the "ls" command is entered in your terminal, the files will all show up and can be run for full benefit.
 
+Now, let's take a walk through the website.
+
+# Home Page
+
+I learnt how to create headers and navigation bars for webpages. I also ensured that they were responsive on smaller screen sizes.
