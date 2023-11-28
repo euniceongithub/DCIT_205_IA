@@ -16,7 +16,7 @@ Set-up: 1. Ensure that Git is installed on your device. You can download it from
 
 Now, let's take a walk through the website.
 
-# Home Page
+## Home Page
 
 I learnt how to create headers and navigation bars for webpages. I also ensured that they were responsive on smaller screen sizes.
 
@@ -43,7 +43,7 @@ Using the knowledge I already had, I incorporated images, header tags and the us
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/3bb1f8bd-9544-4f52-a818-d097b357ba6e)
 
-# About Us Page
+## About Us Page
 Considering that this page was mainly images, paragraph and header tags, it was fairly easy to create and demonstrates beautiful responsiveness.
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/c94e1a05-bbbd-4084-a8a7-23f29dea2d11)
@@ -58,7 +58,7 @@ Considering that this page was mainly images, paragraph and header tags, it was 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/46849217-83eb-4b24-a934-8cf9e4b0c167)
 
 
-# Faculty Page
+## Faculty Page
 I re-used what i had learnt about slideshows from the home page to create yet another one.
 
 
@@ -69,7 +69,7 @@ I re-used what i had learnt about slideshows from the home page to create yet an
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/9d7296ec-9aab-4e96-82e5-2a730b684ee1)
 
 
-# Admissions
+## Admissions
 I studied grid extensively to create this beautifully responsive design.
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/57753a7c-f92f-4265-bbb5-593a2e2e2672)
@@ -78,7 +78,7 @@ I studied grid extensively to create this beautifully responsive design.
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/1bb969d7-dd61-4bcd-82e5-f6519083648b)
 
-# Research Groups
+## Research Groups
 
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/b4e7d025-039a-4710-ad5d-1b971bef7d8d)
@@ -95,13 +95,13 @@ I studied grid extensively to create this beautifully responsive design.
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/234c8612-5ccb-4294-ac8a-d75d92e0db8f)
 
-# News and Events
+## News and Events
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/78834c14-bb76-4591-98f8-64aaad8126df)
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/af57351d-a5c9-49ea-af42-7fb6f4ea9a10)
 
-# Alumni
+#3 Alumni
 
 ![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/cac48775-361e-41ef-b1ed-7fd7d04aebad)
 
