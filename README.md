@@ -19,4 +19,5 @@ Now, let's take a walk through the website.
 # Home Page
 
 I learnt how to create headers and navigation bars for webpages. I also ensured that they were responsive on smaller screen sizes.
-![home page](./sc home1.png)
+
+![image](https://github.com/euniceongithub/DCIT_205_IA/assets/132356850/90e74a5a-216d-4169-bcee-c13814a8ac59)
